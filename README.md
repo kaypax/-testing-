@@ -1,2 +1,3 @@
 # -testing-
 my first repository on github
+hello- all i know is that i know nothing...
